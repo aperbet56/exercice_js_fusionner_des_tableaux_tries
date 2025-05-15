@@ -21,3 +21,7 @@ const mergeDescendingSortedArrays = (arr1, arr2) => {
 
 console.log(mergeDescendingSortedArrays([0, 3, 24, 69, 45], [1, 10, 6, 30]));
 // [ 69, 45, 30, 24, 10, 6, 3, 1, 0 ]
+
+// La méthode sort() trie les éléments d'un tableau, dans ce même tableau, et renvoie le tableau.
+
+// La méthode concat() est utilisée afin de fusionner deux ou plusieurs tableaux en les concaténant. Cette méthode ne modifie pas les tableaux existants, elle renvoie un nouveau tableau qui est le résultat de l'opération.
